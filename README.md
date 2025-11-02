@@ -10,7 +10,7 @@ Esse material é parte do minicurso de 8h oferecido como atividade da Semana Uni
 ## Materiais disponíveis
 📄 [Dados](./1-dados)
 
-📄 [Códigos do R](./2-códigos R)
+📄 [Aulas](./2-aulas)
 
 📄 [Notebook](./1-dados)
 
