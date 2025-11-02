@@ -18,7 +18,7 @@ Esse material é parte do minicurso de 8h oferecido como atividade da Semana Uni
 ## Equipe do minicurso
 
 O minicurso foi ministrado por
--**Felipe Quintino**, Bacharel em Estatística, Doutor em Matemática Aplicada pela UnB, professor do Departamento de Estatística da UnB, pesquisador do OBMigra e coordenador do minicurso.<http://lattes.cnpq.br/2290992968851891>
+- **Felipe Quintino**, Bacharel em Estatística, Doutor em Matemática Aplicada pela UnB, professor do Departamento de Estatística da UnB, pesquisador do OBMigra e coordenador do minicurso.<http://lattes.cnpq.br/2290992968851891>
 - **Sabrina França**, Estatística e Mestranda no Programa de Pós-graduação em Estatística da UnB, atua como analista de dados na Coordenação-Geral de Monitoramento, Avaliação e Inteligência Analítica da Atenção Primária à Saúde no Ministério da Saúde.
   <http://lattes.cnpq.br/3439903933557735>
 
