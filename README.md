@@ -8,7 +8,7 @@ Fique à vontade para consultar, baixar e revisar os materiais.
 Esse material é parte do minicurso de 8h oferecido como atividade da Semana Universitária (SEMUNI) de 2025 da Universidade de Brasília (UnB) e tem como objetivo introduzir os conceitos básicos de R na análise de dados de imigração.
 
 ## Materiais disponíveis
-📄 [PDF](./weibull_fit.pdf)
+📄 [Dados](./1-dados)
 
 📄 [Notebook](./weibull_fit.ipynb)
 
