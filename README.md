@@ -8,16 +8,17 @@ Fique à vontade para consultar, baixar e revisar os materiais.
 Esse material é parte do minicurso de 8h oferecido como atividade da Semana Universitária (SEMUNI) de 2025 da Universidade de Brasília (UnB) e tem como objetivo introduzir os conceitos básicos de R na análise de dados de imigração.
 
 ## Materiais disponíveis
+📄 [PDF](./weibull_fit.pdf)
 
+📄 [Notebook](./weibull_fit.ipynb)
 
 ## Equipe do minicurso
 
 O minicurso foi ministrado por
-\begin{itemize}
-  \item Felipe Quintino, Bacharel em Estatística, Doutor em Matemática Aplicada pela UnB, professor do Departamento de Estatística da UnB, pesquisador do OBMigra e coordenador do minicurso.<http://lattes.cnpq.br/2290992968851891>
-  \item Sabrina França, Estatística e Mestranda no Programa de Pós-graduação em Estatística da UnB, atua como analista de dados na Coordenação-Geral de Monitoramento, Avaliação e Inteligência Analítica da Atenção Primária à Saúde no Ministério da Saúde.
+--**Felipe Quintino**, Bacharel em Estatística, Doutor em Matemática Aplicada pela UnB, professor do Departamento de Estatística da UnB, pesquisador do OBMigra e coordenador do minicurso.<http://lattes.cnpq.br/2290992968851891>
+-- Sabrina França, Estatística e Mestranda no Programa de Pós-graduação em Estatística da UnB, atua como analista de dados na Coordenação-Geral de Monitoramento, Avaliação e Inteligência Analítica da Atenção Primária à Saúde no Ministério da Saúde.
   <http://lattes.cnpq.br/3439903933557735>
-\end{itemize}
+
 Além disso, o minicurso contou com o apoio dos alunos de graduação em estatística Felipe Adriano de Castro, Gabriel Leonardo de Oliveira, Leonardo Santos e Pedro Petedino. 
 
 ## Microdados utilizados
