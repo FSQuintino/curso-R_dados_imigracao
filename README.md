@@ -1,5 +1,5 @@
 ## Breve resumo
-Este repositório reúne os materiais utilizados no minicurso "Introdução ao R para análise de dados de imigração". O minicurso foi ministrado em duas aulas, com 8h de duração total, foi oferecido como atividade da Semana Universitária (SEMUNI) de 2025 da Universidade de Brasília (UnB) e teve como objetivo introduzir os conceitos básicos do software R. Esse minicurso contou com o apoio do Instituto de Ciências Exatas da UnB, do Departamento de Estatística da UnB, da Empresa Júnior ESTAT Consultoria e do Observatório das Migrações Internacionais (OBMIgra).
+Este repositório reúne os materiais utilizados no minicurso "Introdução ao R para análise de dados de imigração". O minicurso foi ministrado em duas aulas, com 8h de duração total, sendo oferecido como atividade da Semana Universitária (SEMUNI) de 2025 da Universidade de Brasília (UnB) e teve como objetivo introduzir os conceitos básicos do software R. Esse minicurso contou com o apoio do Instituto de Ciências Exatas da UnB, do Departamento de Estatística da UnB, da Empresa Júnior ESTAT Consultoria e do Observatório das Migrações Internacionais (OBMIgra).
 As principais referências estão indicadas nos slides e no plano de ensino.
 
 Fique à vontade para consultar, baixar e revisar os materiais.
