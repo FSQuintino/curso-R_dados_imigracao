@@ -8,7 +8,7 @@ Fique à vontade para consultar, baixar e revisar os materiais.
 
 📄 [Aulas](./2-aulas)
 
-📄 [Listas](./3-listas)
+📄 [Listas](./3- listas)
 
 📄 [Notebook](./minicurso_aulas.pdf)
 
