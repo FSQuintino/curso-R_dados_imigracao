@@ -12,6 +12,11 @@ Fique à vontade para consultar, baixar e revisar os materiais.
 
 📄 [Notebook](./minicurso_aulas.pdf)
 
+📄 [Teoria](./estatística_descritiva.pdf)
+
+📄 [Listas](./4-fotos)
+
+
 ## Equipe do minicurso
 
 O minicurso foi ministrado por
