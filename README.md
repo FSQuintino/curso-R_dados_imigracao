@@ -24,7 +24,7 @@ O minicurso foi ministrado por
 - **Sabrina França**, Estatística e Mestranda no Programa de Pós-graduação em Estatística da UnB, atua como analista de dados na Coordenação-Geral de Monitoramento, Avaliação e Inteligência Analítica da Atenção Primária à Saúde no Ministério da Saúde.
   <http://lattes.cnpq.br/3439903933557735>
 
-Além disso, o minicurso contou com o apoio dos alunos de graduação em estatística Felipe Adriano de Castro, Gabriel Leonardo de Oliveira, Leonardo Santos e Pedro Tepedino. 
+Além disso, o minicurso contou com o apoio dos alunos de graduação em estatística Felipe Adriano de Castro, Gabriel Leonardo de Oliveira (<https://www.linkedin.com/in/fadulgabriel>), Leonardo Santos e Pedro Tepedino. 
 
 ## Microdados utilizados
 
