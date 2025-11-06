@@ -26,3 +26,6 @@ Além disso, o minicurso contou com o apoio dos alunos de graduação em estatí
 Os microdados da Coordenação Geral de Imigração Laboral (CGIL) estão sob a responsabilidade do Ministério da Justiça e Segurança Pública e informam sobre os imigrantes que entraram com pedido de autorização de residência para fins laborais. O banco de dados contém informações sobre o país de nascimento, sexo, idade, amparo legal, ocupação, entre outros aspectos trabalhistas relacionados ao solicitante da autorização. 
 Os microdados estão disponíveis no site <https://portaldeimigracao.mj.gov.br/pt/base-de-dados/datamigra> (acesso em 03-11-2025).
 
+## Algumas referências interessantes para a Aula 2
+
+- <https://coolors.co/palettes/trending>
